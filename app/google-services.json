@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818919499374",
+    "project_id": "test-a0de1",
+    "storage_bucket": "test-a0de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818919499374:android:43400bb7f520a3cf72687f",
+        "android_client_info": {
+          "package_name": "com.homesports.sportfuntilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818919499374-rdd81drsbc1l4j4mikf20219jt6g9mk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGlgnU_OS3Mt2C93Hcr-sa6mpP5Vymck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818919499374-rdd81drsbc1l4j4mikf20219jt6g9mk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
